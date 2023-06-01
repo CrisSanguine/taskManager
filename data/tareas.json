@@ -3,7 +3,7 @@
       "id": "e76a70ad-bc97-4037-bf49-dc091d6644f2",
       "clase": 1,
       "titulo": "Bienvenida",
-      "estado": "terminada",
+      "estado": "terminado",
       "fecha": "2023-05-05T00:01:52.756Z"
    },
    {
@@ -19,5 +19,12 @@
       "titulo": "projectoTarea",
       "estado": "pendiente",
       "fecha": "2023-06-01T20:31:45.842Z"
+   },
+   {
+      "id": "10b91f91-fb00-4737-8afd-aa1194d80d9b",
+      "clase": 3,
+      "titulo": "TP estadisticas",
+      "estado": "pendiente",
+      "fecha": "2023-06-01T21:42:56.679Z"
    }
 ]
