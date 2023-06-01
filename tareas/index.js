@@ -1,5 +1,5 @@
  const { leerJSON, escribirJSON } = require("../data");
-// const Tarea = require("./Tarea");
+ const Tarea = require("./Tarea");
 
 module.exports = {
  tareas: leerJSON(),
