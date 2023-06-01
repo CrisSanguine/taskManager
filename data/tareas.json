@@ -12,6 +12,12 @@
       "titulo": "Introducción a Node.js",
       "estado": "en proceso",
       "fecha": "2023-05-05T00:01:52.756Z"
+   },
+   {
+      "id": "858c6928-aec1-41be-b1a0-641b66d8a5ec",
+      "clase": 5,
+      "titulo": "projectoTarea",
+      "estado": "pendiente",
+      "fecha": "2023-06-01T20:31:45.842Z"
    }
-   
 ]
